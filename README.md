@@ -97,7 +97,9 @@
 
 ### 效果
 
-![](file:///C:/Users/intoc/Downloads/IMG_2154.jpeg)
+实机运行 Duty Setup 页面：
+
+![实机效果](docs/images/demo.jpg)
 
 ### 菜单树
 
