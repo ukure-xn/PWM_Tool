@@ -1,0 +1,32 @@
+# ---- Keil MDK 编译产物 ----
+MDK-ARM/PWM_Tool/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.lst
+MDK-ARM/*.map
+MDK-ARM/*.htm
+MDK-ARM/*.lnp
+MDK-ARM/*.dep
+MDK-ARM/*.sct
+MDK-ARM/*.axf
+MDK-ARM/*.hex
+MDK-ARM/*.bin
+MDK-ARM/keil-build-viewer*.log
+MDK-ARM/keil-build-viewer*.txt
+
+# ---- CubeMX 备份文件 ----
+*.ioc.bak
+Core/Src/*.bak
+
+# ---- 编辑器 ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- 系统文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store
