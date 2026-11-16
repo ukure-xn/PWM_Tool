@@ -197,7 +197,7 @@ MenuItem SettingsMenuItems[] = {
 
 MenuItem AboutMenuItems[] = {
     {.General_item_text = "[About]", .General_callback = OLED_UI_Back},
-		{.General_item_text = "Device:PWM Tool%"},
+		{.General_item_text = "Device:PWM Tool"},
     {.General_item_text = "MCU:STM32F103C8"},
     {.General_item_text = "OLED:SSD1306"},
     {.General_item_text = "UI: OLED_UI"},
